@@ -1,0 +1,5 @@
+name: RemoteStopBungee
+main: com.gmail.lynx7478.remotestop.bungee.RemoteStop
+author: SKA4
+version: 1.0
+description: Stop all your servers at once. BungeeCord branch.
